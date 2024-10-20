@@ -10,7 +10,7 @@ function setInvitation(name_en, name_vi, defaultlang, vi_pronoun="") {
   changeLanguage(defaultlang, before_rsvp_init=true);
   document.getElementById("guest_invitation_en").innerHTML = invitation_start_en + "<br>" + "<strong><em>" + name_en + "</em></strong>" + "<br>" + invitation_end_en;
   if (name_vi=="" && defaultlang=="vi") {
-    document.getElementById("guest_invitation_vi").innerHTML = "Đức Tuấn và Mỹ Dung Thân Mời Quý Khách Đến Dự Tiệc Cưới Của Chúng Con.";
+    document.getElementById("guest_invitation_vi").innerHTML = "Đức Tuấn và Mỹ Dung Thân Mời Mọi Người Dự Tiệc Cưới Của Chúng Con.";
   }
   else if (name_en=="" && defaultlang=="en") {
     document.getElementById("guest_invitation_en").innerHTML = "Đức Tuấn & Mỹ Dung Cordially Invite You To Our Wedding Party.";
