@@ -363,8 +363,8 @@ else if (window.location.hash == "#shahidah") {
 }
 else if (window.location.hash == "#profchng") {
   setInvitation(
-    name_="Prof. Chng",
-    name_="Prof. Chng",
+    name_="Prof. Chng & Family",
+    name_="Prof. Chng & Family",
     defaultlang="en",
   )
 }
