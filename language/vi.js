@@ -30,7 +30,7 @@ var language_vi = {
     date_uni: "2017 - 2021 (Đại học Bách Khoa)",
     story_date_uni_1: "Yêu nhau từ những năm đầu đại học, chúng mình đã cùng nhau trải qua khó khăn và tạo nên những kỷ niệm đáng nhớ. Những buổi hẹn hò đầu tiên thật giản dị—chỉ là những lần học bài chung trong thư viện hay dạo bước quanh khuôn viên trường. Chính sự đồng hành và cố gắng đã giúp chúng mình đạt được nhiều \"thành tựu\" nho nhỏ, cũng như có thêm cơ hội để du lịch nhiều nơi.",
     story_date_uni_2: "",
-    date_long_distance: "Từ 12/2017 (Sài Gòn - Singapore)",
+    date_long_distance: "Từ 12/2021 (Sài Gòn - Singapore)",
     story_long_distance_1: "Dù yêu xa nhưng chúng mình luôn dành thời gian để gọi cho nhau mỗi tối, luôn chia sẻ và động viên nhau vượt qua mọi thăng trầm của cuộc sống trưởng thành. May mắn là, chúng mình có cơ hội khám phá thêm nhiều vùng đất mới, và dù địa lý có chia cách, tình yêu của chúng mình càng thêm sâu đậm theo thời gian.",
     story_long_distance_2: "",
     date_proposal: "16/04/2024 (Seoul, Hàn Quốc)",
