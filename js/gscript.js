@@ -29,7 +29,7 @@ if (window.location.hash) {
 
 // Set the content of the webpage 
 // depending on the hash value
-if (window.location.hash == "vn") {
+if (window.location.pathname == "vn") {
   setInvitation(
     name_en="",
     name_vi="",
